@@ -6,11 +6,15 @@ Official downloads and documentation for an original 3D farming and town-buildin
 
 ## Website
 
-The website is being prepared for publication. It documents the installed game and never hosts gameplay. Version-specific download links will be added only after release assets are verified.
+[Open the official website](https://ding-ding-projects.github.io/harvest-borough-downloads/).
+
+This repository publishes the public website through GitHub Pages. It documents the installed game and never hosts gameplay. Version-specific download links appear only after release assets are verified.
+
+The responsive layout supports phone widths from 320 pixels, with labelled bottom navigation, safe-area spacing, touch-sized actions and internally bounded content. Desktop keeps the side navigation.
 
 ## Development
 
-Use Node.js 22.13 or newer, then `npm ci` and `npm run build`. `npm run dev` starts a local authoring server. Hosting uses the committed Sites configuration.
+Use Node.js 22.13 or newer, then `npm ci` and `npm run build:pages`. The static output is `dist/pages`; `npm run check:pages` checks its canonical URL and project-relative asset paths locally. The publication workflow builds and deploys this directory without test or lint jobs. `npm run dev` retains the existing Sites authoring workflow, and `npm run build` retains its Worker build.
 
 <details><summary>Release and installation boundaries</summary>
 
