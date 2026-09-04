@@ -1,0 +1,12 @@
+# Public distribution roadmap
+
+- [x] Establish independent public distribution repository.
+- [x] Implement initial website navigation, planned-feature descriptions and original brand mark.
+- [x] Build the initial website locally.
+- [ ] Verify the updated dependency set and real rendered page.
+- [ ] Publish website and verify deployed markup and assets.
+- [ ] Complete localization, advanced search and universal-feature equivalents.
+- [ ] Add real built-game screenshots and walkthrough recording.
+- [ ] Publish verified Windows installer and self-signed Android APK.
+- [ ] Connect validated release manifest and update feeds.
+- [ ] Connect configured account and purchase routes.
