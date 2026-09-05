@@ -85,3 +85,11 @@ Real runnable source 3834b565c332f3264a5c72472fb6a48d804ae501. Dragging, cancell
 Real runnable source 97b732ae958f33fd60b9f31ab03880895ef2f0e9. Drop validation, natural production, world collection and reopening were exercised. Other activities and native installer acceptance remain incomplete.
 
 </details>
+
+<details><summary>Version 0.1.12: direct animal care</summary>
+
+![Carrying corn directly to an individual hen in its pen](public/captures/animal-feed-0112.png)
+
+Real runnable source ff70f9dd109da77baac218f15861e629e2173afd. Adoption, feed dragging, natural production, direct collection and reopening were exercised. Roaming/eating animation and native installer acceptance remain incomplete.
+
+</details>

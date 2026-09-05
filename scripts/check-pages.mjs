@@ -24,7 +24,7 @@ for (const file of ['brand.svg', 'favicon.svg', 'releases.json', '.nojekyll']) {
 }
 assert(!existsSync(path.join(output, 'server')), 'The Pages output must not require a Worker server.');
 const captures=JSON.parse(readFileSync(path.join(output,'captures/manifest.json'),'utf8'));
-assert.deepEqual(captures.images.map(image=>image.file),['rural-world-015.png','rural-silo-015.png','rural-mine-016.png','rural-market-016.png','rural-mine-017.png','rural-market-017.png','graphical-barn-019.png','seed-bags-0110.png','seed-drag-0110.png','workshop-drop-0111.png','workshop-output-0111.png']);
+assert.deepEqual(captures.images.map(image=>image.file),['rural-world-015.png','rural-silo-015.png','rural-mine-016.png','rural-market-016.png','rural-mine-017.png','rural-market-017.png','graphical-barn-019.png','seed-bags-0110.png','seed-drag-0110.png','workshop-drop-0111.png','workshop-output-0111.png','animal-feed-0112.png','animal-care-0112.png']);
 for(const capture of captures.images){
   const bytes=readFileSync(path.join(output,'captures',capture.file));
   assert.equal(createHash('sha256').update(bytes).digest('hex'),capture.sha256,'Published capture bytes must match the verified source.');

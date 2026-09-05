@@ -27,3 +27,7 @@ Published two byte-identical inspected captures from source 3834b565c332f3264a5c
 ## 0.1.11 world production
 
 Two original inspected captures show an ingredient drop and finished world goods at source 97b732ae958f33fd60b9f31ab03880895ef2f0e9. Per-image provenance is in the capture manifest. The real flow produced two planks from one wood and retained them after reopening. No public installer or complete-product claim is added.
+
+## 0.1.12 direct animal care
+
+Two original inspected captures show individual hen care and feed dragging at source ff70f9dd109da77baac218f15861e629e2173afd. Per-image provenance is in the capture manifest. The real flow retained coins 350, corn 3 and egg 1 after reopening. No complete-product or installer-release claim is added.

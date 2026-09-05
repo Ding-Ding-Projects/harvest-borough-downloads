@@ -106,6 +106,26 @@
       "sourceCommit": "97b732ae958f33fd60b9f31ab03880895ef2f0e9",
       "executableSha256": "efa997c5f156a63e0a570bd29637db988f807ac8fbb3608c167a307f3eb0d2d3",
       "fixture": "Real workshop drop, 80-second production, world collection and reopen flow"
+    },
+    {
+      "file": "animal-feed-0112.png",
+      "sha256": "f52cdd37fc7d730e8c253e5b523e326c692f28f2b4ef966bb9a322548ca88824",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.12",
+      "sourceCommit": "ff70f9dd109da77baac218f15861e629e2173afd",
+      "executableSha256": "9b64fa7b45b60db71fb7178f02ef1ae11aa1a6f34bf70fdd8516504fa36208c4",
+      "fixture": "Real hen adoption, direct feeding, natural produce timer, collection and reopen flow"
+    },
+    {
+      "file": "animal-care-0112.png",
+      "sha256": "7f80299a62243e13d4d662e9c93060f387c229d4570d224802db5060b30fd105",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.12",
+      "sourceCommit": "ff70f9dd109da77baac218f15861e629e2173afd",
+      "executableSha256": "9b64fa7b45b60db71fb7178f02ef1ae11aa1a6f34bf70fdd8516504fa36208c4",
+      "fixture": "Real hen adoption, direct feeding, natural produce timer, collection and reopen flow"
     }
   ]
 }
