@@ -16,3 +16,5 @@
 - [ ] Publish a verified installer download and prove native installation/update acceptance.
 
 - [x] Add source/hash-bound 0.1.6 mine and market screenshots, preserving individual version attribution for the 0.1.5 captures.
+
+- [x] Retain and publish the verified 0.1.7 distinct mine/market captures with exact per-image provenance.

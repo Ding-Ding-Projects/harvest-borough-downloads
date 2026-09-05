@@ -38,6 +38,24 @@
       "version": "0.1.6",
       "sourceCommit": "89e3f3ab1bc0ed2347df8661a8403c9a11117cd2",
       "executableSha256": "ee0c46ad3ffe19321a2fe6438a307eae0b50eaee762b54683024ef9d37946073"
+    },
+    {
+      "file": "rural-mine-017.png",
+      "sha256": "f8b5fb20ddf6860388ba66027698ee59989168a4bc90f80a3655bd299be720f2",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.7",
+      "sourceCommit": "3245db20fd9b28bb4a2042ccaeed70b666e3c0f3",
+      "executableSha256": "29ea652ded35aa778d619607f3e600fdd886747c1725bf2189c8bf869271c2a2"
+    },
+    {
+      "file": "rural-market-017.png",
+      "sha256": "d04c52a05c557ebc680d0f58d2f46d9c79955a03cfccc961805936cb2f56fd85",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.7",
+      "sourceCommit": "3245db20fd9b28bb4a2042ccaeed70b666e3c0f3",
+      "executableSha256": "29ea652ded35aa778d619607f3e600fdd886747c1725bf2189c8bf869271c2a2"
     }
   ]
 }

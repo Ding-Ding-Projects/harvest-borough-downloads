@@ -51,3 +51,13 @@ Real world selections from source `89e3f3ab1bc0ed2347df8661a8403c9a11117cd2`. Th
 ![Posting an order through the market building](public/captures/rural-market-016.png)
 
 </details>
+
+<details><summary>Verified desktop 0.1.7 distinct building models</summary>
+
+Actual runnable source `3245db20fd9b28bb4a2042ccaeed70b666e3c0f3`, with the original mine portal and open market canopy. Activities still operate through the buildings. The world is a prepared capacity fixture. The newer graphical-panel and one-gigabyte content requirements are not complete.
+
+![Distinct mine portal](public/captures/rural-mine-017.png)
+
+![Distinct market canopy](public/captures/rural-market-017.png)
+
+</details>
