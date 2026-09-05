@@ -19,3 +19,7 @@ Overview and README now include the byte-identical approved 0.1.5 farm and silo 
 ## 0.1.9 graphical storage evidence
 
 The gallery now carries a byte-identical inspected capture of real saved gameplay at source 21e6b6de7b3b97e08d9b95318b1f26561a5b9746. Per-image source, executable digest, PNG digest and fixture description are in public/captures/manifest.json. No installer publication is claimed.
+
+## 0.1.10 direct field tools
+
+Published two byte-identical inspected captures from source 3834b565c332f3264a5c72472fb6a48d804ae501. Exact PNG and executable digests are recorded per image. Production, orders, gathering and animal-care interactions remain development work.

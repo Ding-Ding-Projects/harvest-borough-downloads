@@ -69,3 +69,11 @@ Actual runnable source `3245db20fd9b28bb4a2042ccaeed70b666e3c0f3`, with the orig
 Captured from source 21e6b6de7b3b97e08d9b95318b1f26561a5b9746 through an isolated off-screen runnable desktop build. This is a real new-save and reopened harvest flow, not a capacity fixture. Native installation and second-version updates remain unverified.
 
 </details>
+
+<details><summary>Version 0.1.10: direct seed dragging</summary>
+
+![A held seed bag planting directly onto a highlighted field](public/captures/seed-drag-0110.png)
+
+Real runnable source 3834b565c332f3264a5c72472fb6a48d804ae501. Dragging, cancellation, mature-crop sweeping and reopening were exercised. Other activity panels still need direct-manipulation conversion.
+
+</details>

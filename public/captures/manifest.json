@@ -66,6 +66,26 @@
       "sourceCommit": "21e6b6de7b3b97e08d9b95318b1f26561a5b9746",
       "executableSha256": "cafb802497e8db0190b706fb2ba5c3697e973db53b10eb1580d13f6569d0066e",
       "fixture": "Real new-save construction, layout movement, planting, close/reopen and harvest flow"
+    },
+    {
+      "file": "seed-bags-0110.png",
+      "sha256": "3848e087c9d63c6d4819327266d2aab9dc2156432ba5acd7a7f0a2e9d59197fe",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.10",
+      "sourceCommit": "3834b565c332f3264a5c72472fb6a48d804ae501",
+      "executableSha256": "1a6ab604bbbe4f90738fec3fc9891ddcc9d6bb15692c54bf13d51acbcf008e93",
+      "fixture": "Real seed drag, cancellation, natural growth, harvest sweep and reopen flow"
+    },
+    {
+      "file": "seed-drag-0110.png",
+      "sha256": "0ecefa0c574ce16da03ee7d58f9f77e1495085e4a089ec97fb63745cf9e4846d",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.10",
+      "sourceCommit": "3834b565c332f3264a5c72472fb6a48d804ae501",
+      "executableSha256": "1a6ab604bbbe4f90738fec3fc9891ddcc9d6bb15692c54bf13d51acbcf008e93",
+      "fixture": "Real seed drag, cancellation, natural growth, harvest sweep and reopen flow"
     }
   ]
 }
