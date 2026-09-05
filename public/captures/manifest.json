@@ -126,6 +126,36 @@
       "sourceCommit": "ff70f9dd109da77baac218f15861e629e2173afd",
       "executableSha256": "9b64fa7b45b60db71fb7178f02ef1ae11aa1a6f34bf70fdd8516504fa36208c4",
       "fixture": "Real hen adoption, direct feeding, natural produce timer, collection and reopen flow"
+    },
+    {
+      "file": "cart-loading-0113.png",
+      "sha256": "bea2912132de659ed995295931129e69c3dc3e0b968b9ef7385d2399d45199a0",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.13",
+      "sourceCommit": "c305d75275d33fb4204a6fe137075558e9b18bf3",
+      "executableSha256": "080fa4366cb1d305cc0fb28352919aefdd441b90b492459e62663239865fa5d9",
+      "fixture": "Real fresh-farm order loading and reopen flow."
+    },
+    {
+      "file": "cart-expired-0113.png",
+      "sha256": "27037a63bf2cef8d85b9ddc786cdba1c291e38e63e5b0205052d5f011ac8ac6d",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.13",
+      "sourceCommit": "c305d75275d33fb4204a6fe137075558e9b18bf3",
+      "executableSha256": "080fa4366cb1d305cc0fb28352919aefdd441b90b492459e62663239865fa5d9",
+      "fixture": "Controlled imported near-expiry order; no goods or rewards changed."
+    },
+    {
+      "file": "feed-quantity-0113.png",
+      "sha256": "0e09faaab9605d4c858a0412c5859a333c652a347c6a8f86c1c7c9a0427a6bdb",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.13",
+      "sourceCommit": "c305d75275d33fb4204a6fe137075558e9b18bf3",
+      "executableSha256": "080fa4366cb1d305cc0fb28352919aefdd441b90b492459e62663239865fa5d9",
+      "fixture": "Real hen adoption and feed quantity inspection."
     }
   ]
 }

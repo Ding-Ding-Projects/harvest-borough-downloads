@@ -93,3 +93,11 @@ Real runnable source 97b732ae958f33fd60b9f31ab03880895ef2f0e9. Drop validation, 
 Real runnable source ff70f9dd109da77baac218f15861e629e2173afd. Adoption, feed dragging, natural production, direct collection and reopening were exercised. Roaming/eating animation and native installer acceptance remain incomplete.
 
 </details>
+
+<details><summary>Version 0.1.13: cart loading and expiry feedback</summary>
+
+![Dragging an exact order load onto the delivery cart](public/captures/cart-loading-0113.png)
+
+Real runnable source c305d75275d33fb4204a6fe137075558e9b18bf3. Normal delivery/reopen and a separately identified controlled expiry case were verified. The gallery also shows distinct feed-load and stock quantities. Native installation and complete-product acceptance remain open.
+
+</details>

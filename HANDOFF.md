@@ -31,3 +31,7 @@ Two original inspected captures show an ingredient drop and finished world goods
 ## 0.1.12 direct animal care
 
 Two original inspected captures show individual hen care and feed dragging at source ff70f9dd109da77baac218f15861e629e2173afd. Per-image provenance is in the capture manifest. The real flow retained coins 350, corn 3 and egg 1 after reopening. No complete-product or installer-release claim is added.
+
+## 0.1.13 cart loading
+
+Three inspected captures show normal cart loading, controlled held-order expiry, and feed-load versus stock quantities at source c305d75275d33fb4204a6fe137075558e9b18bf3. Each manifest row identifies its fixture boundary and hashes. The real delivery retained wood 37, coins 455 and XP 30 after reopening.
