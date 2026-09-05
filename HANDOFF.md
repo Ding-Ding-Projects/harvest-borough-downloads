@@ -15,3 +15,7 @@ Overview and README now include the byte-identical approved 0.1.5 farm and silo 
 - [x] Add source/hash-bound 0.1.6 mine and market screenshots, preserving individual version attribution for the 0.1.5 captures.
 
 - [x] Retain and publish the verified 0.1.7 distinct mine/market captures with exact per-image provenance.
+
+## 0.1.9 graphical storage evidence
+
+The gallery now carries a byte-identical inspected capture of real saved gameplay at source 21e6b6de7b3b97e08d9b95318b1f26561a5b9746. Per-image source, executable digest, PNG digest and fixture description are in public/captures/manifest.json. No installer publication is claimed.

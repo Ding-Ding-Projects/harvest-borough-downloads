@@ -61,3 +61,11 @@ Actual runnable source `3245db20fd9b28bb4a2042ccaeed70b666e3c0f3`, with the orig
 ![Distinct market canopy](public/captures/rural-market-017.png)
 
 </details>
+
+<details><summary>Version 0.1.9: graphical barn and saved gameplay</summary>
+
+![Graphical barn shelves after reopening and harvesting a saved farm](public/captures/graphical-barn-019.png)
+
+Captured from source 21e6b6de7b3b97e08d9b95318b1f26561a5b9746 through an isolated off-screen runnable desktop build. This is a real new-save and reopened harvest flow, not a capacity fixture. Native installation and second-version updates remain unverified.
+
+</details>

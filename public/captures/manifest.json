@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "method": "Off-screen application-window launch and isolated renderer capture",
-  "fixture": "Prepared 200-plot and 100-animal capacity fixture; not earned progression",
+  "fixture": "Per-image provenance identifies real saved gameplay and prepared capacity fixtures.",
   "images": [
     {
       "file": "rural-world-015.png",
@@ -56,6 +56,16 @@
       "version": "0.1.7",
       "sourceCommit": "3245db20fd9b28bb4a2042ccaeed70b666e3c0f3",
       "executableSha256": "29ea652ded35aa778d619607f3e600fdd886747c1725bf2189c8bf869271c2a2"
+    },
+    {
+      "file": "graphical-barn-019.png",
+      "sha256": "54cf7b01465b1f0c9b436f95e6657d40bb7112fdb7078330b98dc640b7baa0c5",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.9",
+      "sourceCommit": "21e6b6de7b3b97e08d9b95318b1f26561a5b9746",
+      "executableSha256": "cafb802497e8db0190b706fb2ba5c3697e973db53b10eb1580d13f6569d0066e",
+      "fixture": "Real new-save construction, layout movement, planting, close/reopen and harvest flow"
     }
   ]
 }
