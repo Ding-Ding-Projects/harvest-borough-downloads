@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.5",
+  "sourceCommit": "e560ee7604a40e8dd9eade65e2db4f11686f38d1",
+  "executableSha256": "61e74ee6cd1f302834fe1ac584742564fd144e234827f57593d70a277eac90af",
+  "method": "Off-screen application-window launch and isolated renderer capture",
+  "fixture": "Prepared 200-plot and 100-animal capacity fixture; not earned progression",
+  "images": [
+    {
+      "file": "rural-world-015.png",
+      "sha256": "532c762a05ce87683e0bac0a0d19f6c6628a68636a86da496796437cdde32d71",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "file": "rural-silo-015.png",
+      "sha256": "4a7b7d68e2ec613fbe7a979b742d0520bf02ab82a5aa4cd6b3b617f788b48ec8",
+      "width": 1280,
+      "height": 800
+    }
+  ]
+}

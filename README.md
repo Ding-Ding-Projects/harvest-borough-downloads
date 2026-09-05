@@ -26,6 +26,18 @@ Core play is planned to be free, with optional currency and cosmetic purchases. 
 
 <details><summary>Evidence and remaining work</summary>
 
-The initial website contains original branding, navigation, planned-feature descriptions, download availability, documentation search, and persisted light/dark appearance. The complete localization, advanced settings, advanced regex, per-element customization, and universal-tool equivalents are not complete. Real game captures will be added after the actual built game is verified. Brand illustrations are explicitly labelled as illustrations.
+The initial website contains original branding, navigation, planned-feature descriptions, download availability, documentation search, and persisted light/dark appearance. The complete localization, advanced settings, advanced regex, per-element customization, and universal-tool equivalents are not complete. Verified desktop 0.1.5 captures are now included below. Their capacity fixture does not establish earned progression, native installer execution or update acceptance. Brand illustrations are explicitly labelled as illustrations.
+
+</details>
+
+<details open><summary>Verified desktop 0.1.5 captures</summary>
+
+Actual built desktop screens captured on 2026-09-05 from source `e560ee7604a40e8dd9eade65e2db4f11686f38d1`. These show an imported capacity fixture. They are not concept art or a claim of complete commercial-quality art.
+
+![Detailed farm with minimal HUD and custom title bar](public/captures/rural-world-015.png)
+
+![Silo storage opened by clicking the building](public/captures/rural-silo-015.png)
+
+The [capture manifest](public/captures/manifest.json) records exact image and executable hashes. No private implementation or operational path is included.
 
 </details>

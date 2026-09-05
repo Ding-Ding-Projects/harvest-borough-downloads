@@ -11,3 +11,6 @@
 - [ ] Publish verified Windows installer and self-signed Android APK.
 - [ ] Connect validated release manifest and update feeds.
 - [ ] Connect configured account and purchase routes.
+
+- [x] Include verified desktop 0.1.5 farm and silo captures in Overview and README.
+- [ ] Publish a verified installer download and prove native installation/update acceptance.
