@@ -1,8 +1,5 @@
 {
-  "schemaVersion": 1,
-  "version": "0.1.5",
-  "sourceCommit": "e560ee7604a40e8dd9eade65e2db4f11686f38d1",
-  "executableSha256": "61e74ee6cd1f302834fe1ac584742564fd144e234827f57593d70a277eac90af",
+  "schemaVersion": 2,
   "method": "Off-screen application-window launch and isolated renderer capture",
   "fixture": "Prepared 200-plot and 100-animal capacity fixture; not earned progression",
   "images": [
@@ -10,13 +7,37 @@
       "file": "rural-world-015.png",
       "sha256": "532c762a05ce87683e0bac0a0d19f6c6628a68636a86da496796437cdde32d71",
       "width": 1280,
-      "height": 800
+      "height": 800,
+      "version": "0.1.5",
+      "sourceCommit": "e560ee7604a40e8dd9eade65e2db4f11686f38d1",
+      "executableSha256": "61e74ee6cd1f302834fe1ac584742564fd144e234827f57593d70a277eac90af"
     },
     {
       "file": "rural-silo-015.png",
       "sha256": "4a7b7d68e2ec613fbe7a979b742d0520bf02ab82a5aa4cd6b3b617f788b48ec8",
       "width": 1280,
-      "height": 800
+      "height": 800,
+      "version": "0.1.5",
+      "sourceCommit": "e560ee7604a40e8dd9eade65e2db4f11686f38d1",
+      "executableSha256": "61e74ee6cd1f302834fe1ac584742564fd144e234827f57593d70a277eac90af"
+    },
+    {
+      "file": "rural-mine-016.png",
+      "sha256": "23c55bb0adb7ce5b54b7fe105a28e87ff7d661f851aade898143566cef8382f2",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.6",
+      "sourceCommit": "89e3f3ab1bc0ed2347df8661a8403c9a11117cd2",
+      "executableSha256": "ee0c46ad3ffe19321a2fe6438a307eae0b50eaee762b54683024ef9d37946073"
+    },
+    {
+      "file": "rural-market-016.png",
+      "sha256": "ec2b682908edc37dd2c7cb93d3a35ccb470b0dd5b13a0708e95597c0175749fc",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.6",
+      "sourceCommit": "89e3f3ab1bc0ed2347df8661a8403c9a11117cd2",
+      "executableSha256": "ee0c46ad3ffe19321a2fe6438a307eae0b50eaee762b54683024ef9d37946073"
     }
   ]
 }

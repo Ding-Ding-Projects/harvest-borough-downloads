@@ -41,3 +41,13 @@ Actual built desktop screens captured on 2026-09-05 from source `e560ee7604a40e8
 The [capture manifest](public/captures/manifest.json) records exact image and executable hashes. No private implementation or operational path is included.
 
 </details>
+
+<details><summary>Verified desktop 0.1.6 mine and market</summary>
+
+Real world selections from source `89e3f3ab1bc0ed2347df8661a8403c9a11117cd2`. The mine produced one saved ore and the market posted one saved order. The world is an imported capacity fixture, not earned progression.
+
+![Mining ore through the mine building](public/captures/rural-mine-016.png)
+
+![Posting an order through the market building](public/captures/rural-market-016.png)
+
+</details>

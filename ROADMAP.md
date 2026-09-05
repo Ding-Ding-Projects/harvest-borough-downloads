@@ -14,3 +14,5 @@
 
 - [x] Include verified desktop 0.1.5 farm and silo captures in Overview and README.
 - [ ] Publish a verified installer download and prove native installation/update acceptance.
+
+- [x] Add source/hash-bound 0.1.6 mine and market screenshots, preserving individual version attribution for the 0.1.5 captures.

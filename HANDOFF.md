@@ -11,3 +11,5 @@ Original vector brand art is committed. It is not a screenshot. Product captures
 ## Desktop capture refresh, 2026-09-05
 
 Overview and README now include the byte-identical approved 0.1.5 farm and silo captures. The public capture manifest retains source and image/executable digests without private paths. Capacity fixtures are explicitly labelled. The existing Sites project lookup returned project_not_found (404), so no Sites deployment is claimed; the repository retains its established GitHub Pages publication route. Public installer/update acceptance remains unverified.
+
+- [x] Add source/hash-bound 0.1.6 mine and market screenshots, preserving individual version attribution for the 0.1.5 captures.
