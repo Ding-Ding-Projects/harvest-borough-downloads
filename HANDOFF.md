@@ -23,3 +23,7 @@ The gallery now carries a byte-identical inspected capture of real saved gamepla
 ## 0.1.10 direct field tools
 
 Published two byte-identical inspected captures from source 3834b565c332f3264a5c72472fb6a48d804ae501. Exact PNG and executable digests are recorded per image. Production, orders, gathering and animal-care interactions remain development work.
+
+## 0.1.11 world production
+
+Two original inspected captures show an ingredient drop and finished world goods at source 97b732ae958f33fd60b9f31ab03880895ef2f0e9. Per-image provenance is in the capture manifest. The real flow produced two planks from one wood and retained them after reopening. No public installer or complete-product claim is added.

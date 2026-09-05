@@ -77,3 +77,11 @@ Captured from source 21e6b6de7b3b97e08d9b95318b1f26561a5b9746 through an isolate
 Real runnable source 3834b565c332f3264a5c72472fb6a48d804ae501. Dragging, cancellation, mature-crop sweeping and reopening were exercised. Other activity panels still need direct-manipulation conversion.
 
 </details>
+
+<details><summary>Version 0.1.11: world production</summary>
+
+![A real ingredient load held over its matching workshop](public/captures/workshop-drop-0111.png)
+
+Real runnable source 97b732ae958f33fd60b9f31ab03880895ef2f0e9. Drop validation, natural production, world collection and reopening were exercised. Other activities and native installer acceptance remain incomplete.
+
+</details>

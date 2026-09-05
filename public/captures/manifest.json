@@ -86,6 +86,26 @@
       "sourceCommit": "3834b565c332f3264a5c72472fb6a48d804ae501",
       "executableSha256": "1a6ab604bbbe4f90738fec3fc9891ddcc9d6bb15692c54bf13d51acbcf008e93",
       "fixture": "Real seed drag, cancellation, natural growth, harvest sweep and reopen flow"
+    },
+    {
+      "file": "workshop-drop-0111.png",
+      "sha256": "fffa5c799f366b7dc59c74ed1c5edde28cc97e2fab0254e7c66273210a307f05",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.11",
+      "sourceCommit": "97b732ae958f33fd60b9f31ab03880895ef2f0e9",
+      "executableSha256": "efa997c5f156a63e0a570bd29637db988f807ac8fbb3608c167a307f3eb0d2d3",
+      "fixture": "Real workshop drop, 80-second production, world collection and reopen flow"
+    },
+    {
+      "file": "workshop-output-0111.png",
+      "sha256": "2b70f2a17927e01a3470bb69dddda847aa60f415d93061bc280f519470f6ba07",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.11",
+      "sourceCommit": "97b732ae958f33fd60b9f31ab03880895ef2f0e9",
+      "executableSha256": "efa997c5f156a63e0a570bd29637db988f807ac8fbb3608c167a307f3eb0d2d3",
+      "fixture": "Real workshop drop, 80-second production, world collection and reopen flow"
     }
   ]
 }
