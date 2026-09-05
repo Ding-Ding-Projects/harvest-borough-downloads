@@ -101,3 +101,11 @@ Real runnable source ff70f9dd109da77baac218f15861e629e2173afd. Adoption, feed dr
 Real runnable source c305d75275d33fb4204a6fe137075558e9b18bf3. Normal delivery/reopen and a separately identified controlled expiry case were verified. The gallery also shows distinct feed-load and stock quantities. Native installation and complete-product acceptance remain open.
 
 </details>
+
+<details><summary>Version 0.1.14: worksite tool strokes</summary>
+
+![Deliberate saw strokes at the log-cutting worksite](public/captures/wood-strokes-0114.png)
+
+Real runnable source f819d4eadf96f9e672199d484feb1ee210b007e4. Pointer and keyboard work, cancellation, cooldown refusal and reopened resources were verified. The small bilingual feedback capture shows the repaired notification spacing.
+
+</details>

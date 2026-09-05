@@ -35,3 +35,7 @@ Two original inspected captures show individual hen care and feed dragging at so
 ## 0.1.13 cart loading
 
 Three inspected captures show normal cart loading, controlled held-order expiry, and feed-load versus stock quantities at source c305d75275d33fb4204a6fe137075558e9b18bf3. Each manifest row identifies its fixture boundary and hashes. The real delivery retained wood 37, coins 455 and XP 30 after reopening.
+
+## 0.1.14 worksite gathering
+
+Three inspected captures show wood/stone work and separated bilingual feedback at source f819d4eadf96f9e672199d484feb1ee210b007e4. Dimensions and provenance are recorded per image. Reopening retained wood 43 and stone 23. Finite deposits, deeper animation, recording and native installer/update acceptance remain open.

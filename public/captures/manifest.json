@@ -156,6 +156,36 @@
       "sourceCommit": "c305d75275d33fb4204a6fe137075558e9b18bf3",
       "executableSha256": "080fa4366cb1d305cc0fb28352919aefdd441b90b492459e62663239865fa5d9",
       "fixture": "Real hen adoption and feed quantity inspection."
+    },
+    {
+      "file": "wood-strokes-0114.png",
+      "sha256": "ce2f818652c56a7d389396b26a22947a8cb49ccbe0362c52a231ad444b3252ea",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.14",
+      "sourceCommit": "f819d4eadf96f9e672199d484feb1ee210b007e4",
+      "executableSha256": "ade2f8397e8dc8753942a858bda8b9ce0ec60c1b0946ff14e20455307ca04305",
+      "fixture": "Real worksite strokes, cancellation, cooldown and reopen flow."
+    },
+    {
+      "file": "stone-worksite-0114.png",
+      "sha256": "493fb8a65bb37f8101d0a230809064c5d6ce2a837d20f3743de2712258c3c725",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.14",
+      "sourceCommit": "f819d4eadf96f9e672199d484feb1ee210b007e4",
+      "executableSha256": "ade2f8397e8dc8753942a858bda8b9ce0ec60c1b0946ff14e20455307ca04305",
+      "fixture": "Real worksite strokes, cancellation, cooldown and reopen flow."
+    },
+    {
+      "file": "gather-feedback-0114.png",
+      "sha256": "b076d30377b0cb3b1e67d1d97e8da3d2cf051b114c277975fc07a5f3d776f43a",
+      "width": 960,
+      "height": 600,
+      "version": "0.1.14",
+      "sourceCommit": "f819d4eadf96f9e672199d484feb1ee210b007e4",
+      "executableSha256": "ade2f8397e8dc8753942a858bda8b9ce0ec60c1b0946ff14e20455307ca04305",
+      "fixture": "Real keyboard gathering at 960 by 600 in bilingual mode."
     }
   ]
 }
