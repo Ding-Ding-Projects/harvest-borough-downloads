@@ -39,3 +39,7 @@ Three inspected captures show normal cart loading, controlled held-order expiry,
 ## 0.1.14 worksite gathering
 
 Three inspected captures show wood/stone work and separated bilingual feedback at source f819d4eadf96f9e672199d484feb1ee210b007e4. Dimensions and provenance are recorded per image. Reopening retained wood 43 and stone 23. Finite deposits, deeper animation, recording and native installer/update acceptance remain open.
+
+## 0.1.15 real recording
+
+The gallery includes a native video player and the byte-identical 1,027,191-byte MP4. Its SHA-256 is 0a9672d779addf874d6385ac78ec3798c3ca8a2277f82e60238e669349fafed9. The adjacent receipt records source, executable, shell and renderer-resource provenance. This remains a development recording, not public installer or full-product acceptance.

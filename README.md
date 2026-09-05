@@ -109,3 +109,11 @@ Real runnable source c305d75275d33fb4204a6fe137075558e9b18bf3. Normal delivery/r
 Real runnable source f819d4eadf96f9e672199d484feb1ee210b007e4. Pointer and keyboard work, cancellation, cooldown refusal and reopened resources were verified. The small bilingual feedback capture shows the repaired notification spacing.
 
 </details>
+
+<details><summary>Version 0.1.15: real recorded walkthrough</summary>
+
+[![Watch the actual gathering walkthrough](public/captures/smooth-gathering-0115.png)](public/recordings/gathering-0.1.15.mp4)
+
+18.488 seconds, 426 captured and encoded frames, 1280 by 800, silent. Source 7a551e5c0421004849419bc697c9b62af475b459. Full decoding, frame count, timing and input provenance were verified. The public gallery provides playback and a video download.
+
+</details>

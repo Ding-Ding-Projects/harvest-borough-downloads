@@ -24,10 +24,14 @@ for (const file of ['brand.svg', 'favicon.svg', 'releases.json', '.nojekyll']) {
 }
 assert(!existsSync(path.join(output, 'server')), 'The Pages output must not require a Worker server.');
 const captures=JSON.parse(readFileSync(path.join(output,'captures/manifest.json'),'utf8'));
-assert.deepEqual(captures.images.map(image=>image.file),['rural-world-015.png','rural-silo-015.png','rural-mine-016.png','rural-market-016.png','rural-mine-017.png','rural-market-017.png','graphical-barn-019.png','seed-bags-0110.png','seed-drag-0110.png','workshop-drop-0111.png','workshop-output-0111.png','animal-feed-0112.png','animal-care-0112.png','cart-loading-0113.png','cart-expired-0113.png','feed-quantity-0113.png','wood-strokes-0114.png','stone-worksite-0114.png','gather-feedback-0114.png']);
+assert.deepEqual(captures.images.map(image=>image.file),['rural-world-015.png','rural-silo-015.png','rural-mine-016.png','rural-market-016.png','rural-mine-017.png','rural-market-017.png','graphical-barn-019.png','seed-bags-0110.png','seed-drag-0110.png','workshop-drop-0111.png','workshop-output-0111.png','animal-feed-0112.png','animal-care-0112.png','cart-loading-0113.png','cart-expired-0113.png','feed-quantity-0113.png','wood-strokes-0114.png','stone-worksite-0114.png','gather-feedback-0114.png','smooth-gathering-0115.png','recorded-storage-0115.png']);
 for(const capture of captures.images){
   const bytes=readFileSync(path.join(output,'captures',capture.file));
   assert.equal(createHash('sha256').update(bytes).digest('hex'),capture.sha256,'Published capture bytes must match the verified source.');
   assert.equal(bytes.readUInt32BE(16),capture.width);assert.equal(bytes.readUInt32BE(20),capture.height);
 }
 console.log(`Verified static project paths and canonical URL: ${canonicalUrl}`);
+
+const recording=JSON.parse(readFileSync(path.join(output,'recordings/gathering-0.1.15.json'),'utf8')).recording;
+const video=readFileSync(path.join(output,'recordings/gathering-0.1.15.mp4'));
+assert.equal(createHash('sha256').update(video).digest('hex'),recording.sha256);assert.equal(video.length,recording.bytes);assert.equal(video.toString('ascii',4,8),'ftyp');assert.equal(recording.frameCount,recording.encodedFrameCount);

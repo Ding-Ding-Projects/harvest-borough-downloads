@@ -186,6 +186,26 @@
       "sourceCommit": "f819d4eadf96f9e672199d484feb1ee210b007e4",
       "executableSha256": "ade2f8397e8dc8753942a858bda8b9ce0ec60c1b0946ff14e20455307ca04305",
       "fixture": "Real keyboard gathering at 960 by 600 in bilingual mode."
+    },
+    {
+      "file": "smooth-gathering-0115.png",
+      "sha256": "9055080481016410f811fa2fd60a4cdeb2fd5a8aa52341bf9005195febdbaf2c",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.15",
+      "sourceCommit": "7a551e5c0421004849419bc697c9b62af475b459",
+      "executableSha256": "a07abb7e425ab49839ee6112acb216b6cf603a8340fe3e2386e0432ffcc4db77",
+      "fixture": "Real continuous gathering walkthrough and resulting inventory."
+    },
+    {
+      "file": "recorded-storage-0115.png",
+      "sha256": "b5b443fb1d16c8e49f203240eb64bf9430768e61845ecb8a5994c8706f36a242",
+      "width": 1280,
+      "height": 800,
+      "version": "0.1.15",
+      "sourceCommit": "7a551e5c0421004849419bc697c9b62af475b459",
+      "executableSha256": "a07abb7e425ab49839ee6112acb216b6cf603a8340fe3e2386e0432ffcc4db77",
+      "fixture": "Real continuous gathering walkthrough and resulting inventory."
     }
   ]
 }

@@ -96,3 +96,4 @@ img, svg { max-width: 100%; }
 }
 
 .runtime-captures{margin:40px clamp(20px,4vw,64px);max-width:1200px}.runtime-captures figure{margin:24px 0}.runtime-captures img{display:block;width:100%;height:auto;border-radius:16px;border:1px solid currentColor}.runtime-captures figcaption{font-size:14px;line-height:1.5;margin-top:10px}.runtime-captures a:focus-visible{outline:3px solid currentColor;outline-offset:5px;display:block;border-radius:16px}
+.runtime-captures video{display:block;width:100%;height:auto;max-width:100%;border-radius:12px}.recorded-walkthrough>a{display:inline-block;padding:12px 0;}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "route": "cheap-lowlevel-headless",
+  "sourceCommit": "7a551e5c0421004849419bc697c9b62af475b459",
+  "artifactSha256": "a07abb7e425ab49839ee6112acb216b6cf603a8340fe3e2386e0432ffcc4db77",
+  "shellSha256": "7678e1c1f7e11f620522aa4248c41a4f119cb78ce64ffc467dfa9585a377dead",
+  "renderer": {
+    "files": [
+      {
+        "path": "assets/index-7PY0Zrp0.css",
+        "bytes": 24126,
+        "sha256": "47d6ab141980f694fc65e250a90b8472c19cffef4ff56dbf66ba9a268a97e730"
+      },
+      {
+        "path": "assets/index-vHFA-5Ko.js",
+        "bytes": 746416,
+        "sha256": "456af988b14cdb62701829f2fce5823e6ed2beb312d21a5c1186562032bb040a"
+      },
+      {
+        "path": "assets/meadow-albedo-BwwpfTb5.png",
+        "bytes": 3887077,
+        "sha256": "94181519ad38b0e3b9bba69b5ba2c0b30ba9613c342cd00083ff7e7a3f3446e1"
+      },
+      {
+        "path": "build-provenance.json",
+        "bytes": 685,
+        "sha256": "01a99eb407439e0cdba0daa90bfa9c92c0cc7faa48867d2792189029b0e245bc"
+      },
+      {
+        "path": "index.html",
+        "bytes": 435,
+        "sha256": "037db781f4a8217d4d058b3defc5ac55f723235e291cea1925be3b20010b5f77"
+      }
+    ],
+    "sha256": "54bbb0ba0fc3ac25be059d3b602e4a604c38d254ee44a79c6984305557e96036"
+  },
+  "provenance": {
+    "schemaVersion": 1,
+    "version": "0.1.15",
+    "commit": "7a551e5c0421004849419bc697c9b62af475b459",
+    "sourceReceipt": {
+      "commit": "7a551e5c0421004849419bc697c9b62af475b459",
+      "tree": "7d254cbd9443e793d7048e26f234c69a2b5f9e4f",
+      "index": "7d254cbd9443e793d7048e26f234c69a2b5f9e4f",
+      "manifestSha256": "35784ae05fd1f01ab34077d651f3efb0e506defdac19c2cf7ed93cbf351d223c",
+      "manifestSchema": 1
+    },
+    "updatedAt": "2026-09-05T13:03:58.2766821Z",
+    "timezone": "UTC",
+    "rendererEntry": "index.html"
+  },
+  "recording": {
+    "file": "gathering-0.1.15.mp4",
+    "sha256": "0a9672d779addf874d6385ac78ec3798c3ca8a2277f82e60238e669349fafed9",
+    "bytes": 1027191,
+    "frameCount": 426,
+    "encodedFrameCount": 426,
+    "width": 1280,
+    "height": 800,
+    "captureDurationSeconds": 18.487242937088013,
+    "encodedDurationSeconds": 18.488,
+    "firstFrameAt": "2026-09-05T13:07:57.439Z",
+    "lastFrameAt": "2026-09-05T13:08:15.926Z",
+    "encoderVersion": "ffmpeg version 9.0-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+    "encoderSha256": "05f4251bce9293c2ab492cb17ca7724a0ffd0d06c881ba2ee83b82a89c2fc740",
+    "timing": "Actual CDP frame-swap timestamps",
+    "silent": true,
+    "decoderValidation": "complete decode and frame-count validation passed"
+  },
+  "privacy": {
+    "isolatedProfile": true,
+    "singleExpectedPage": true,
+    "visibleDesktopUntouched": true,
+    "audioCaptured": false
+  },
+  "inspection": {
+    "expectedSurfaceOnly": true,
+    "review": "Decoded key frames inspected; complete decode and frame count verified.",
+    "privacyReviewed": true
+  }
+}
