@@ -18,3 +18,10 @@
 - [x] Add source/hash-bound 0.1.6 mine and market screenshots, preserving individual version attribution for the 0.1.5 captures.
 
 - [x] Retain and publish the verified 0.1.7 distinct mine/market captures with exact per-image provenance.
+
+## Repository closeout
+
+- [x] Inspect the primary checkout, fetch `origin`, and verify local and remote `main` refs.
+- [x] Confirm there are no linked checkouts, extra branches, stashes, unmerged index entries, or conflict markers.
+- [x] Refresh `HANDOFF.md` with the closeout inventory and remaining verified work.
+- [ ] Create an external archive before any future removal pass that has safe redundant items.

@@ -43,3 +43,13 @@ Three inspected captures show wood/stone work and separated bilingual feedback a
 ## 0.1.15 real recording
 
 The gallery includes a native video player and the byte-identical 1,027,191-byte MP4. Its SHA-256 is 0a9672d779addf874d6385ac78ec3798c3ca8a2277f82e60238e669349fafed9. The adjacent receipt records source, executable, shell and renderer-resource provenance. This remains a development recording, not public installer or full-product acceptance.
+
+## Closeout inventory, 2026-09-18
+
+The primary checkout was inspected before editing and fetched from `origin`. It was already clean on `main` at `a8944561fd842a7297e75163e4595d693126b5ba`, and `origin/main` matched that commit before and after the fetch. The repository has one local branch, one primary checkout, no linked checkouts, no stashes, no unmerged index entries and no conflict markers.
+
+No preservation commit was required because the checkout contained no recoverable uncommitted work. No conflicts were present, so no side-selection decisions were made. No task-owned redundant branch, checkout or stash existed for removal. The external archive step was therefore not needed for a deletion pass, and no deletion was attempted.
+
+The repository has no open issues. The separate `Ding-Ding-Projects/agent-global-memory` issue scan found five open instruction issues, which were intentionally excluded because this task is limited to this repository. No release, publication, installer, or unrelated build work was run.
+
+The next owner should verify the updated dependency set and real rendered page, then complete the existing GitHub Pages and installer work listed in `ROADMAP.md`. The current public site and download states remain unverified where this handoff says so.
